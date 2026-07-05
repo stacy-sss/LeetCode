@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/stacy-sss/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/stacy-sss/LeetCode/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/stacy-sss/LeetCode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/stacy-sss/LeetCode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/stacy-sss/LeetCode/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/stacy-sss/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/stacy-sss/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
