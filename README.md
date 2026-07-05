@@ -36,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/stacy-sss/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/stacy-sss/LeetCode/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/stacy-sss/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/stacy-sss/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
