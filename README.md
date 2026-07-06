@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/stacy-sss/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/stacy-sss/LeetCode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/stacy-sss/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/stacy-sss/LeetCode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/stacy-sss/LeetCode/tree/master/0067-add-binary) |
 ## Dynamic Programming
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/stacy-sss/LeetCode/tree/master/0012-integer-to-roman) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/stacy-sss/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
