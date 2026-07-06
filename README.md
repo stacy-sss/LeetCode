@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/stacy-sss/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/stacy-sss/LeetCode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/stacy-sss/LeetCode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/stacy-sss/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/stacy-sss/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/stacy-sss/LeetCode/tree/master/0070-climbing-stairs) |
 ## Backtracking
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/stacy-sss/LeetCode/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/stacy-sss/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
