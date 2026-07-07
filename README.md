@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/stacy-sss/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/stacy-sss/LeetCode/tree/master/0066-plus-one) |
+| [0643-maximum-average-subarray-i](https://github.com/stacy-sss/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1383-maximum-performance-of-a-team](https://github.com/stacy-sss/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stacy-sss/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/stacy-sss/LeetCode/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/stacy-sss/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
