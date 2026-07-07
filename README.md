@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/stacy-sss/LeetCode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/stacy-sss/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/stacy-sss/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/stacy-sss/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/stacy-sss/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/stacy-sss/LeetCode/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/stacy-sss/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/stacy-sss/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/stacy-sss/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/stacy-sss/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/stacy-sss/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/stacy-sss/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/stacy-sss/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/stacy-sss/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
