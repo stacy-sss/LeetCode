@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/stacy-sss/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/stacy-sss/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/stacy-sss/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/stacy-sss/LeetCode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/stacy-sss/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/stacy-sss/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1383-maximum-performance-of-a-team](https://github.com/stacy-sss/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/stacy-sss/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/stacy-sss/LeetCode/tree/master/0217-contains-duplicate) |
 | [1383-maximum-performance-of-a-team](https://github.com/stacy-sss/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stacy-sss/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/stacy-sss/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/stacy-sss/LeetCode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/stacy-sss/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/stacy-sss/LeetCode/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/stacy-sss/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/stacy-sss/LeetCode/tree/master/0567-permutation-in-string) |
 ## Stack
