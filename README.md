@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/stacy-sss/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/stacy-sss/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/stacy-sss/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/stacy-sss/LeetCode/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/stacy-sss/LeetCode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/stacy-sss/LeetCode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/stacy-sss/LeetCode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/stacy-sss/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/stacy-sss/LeetCode/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
