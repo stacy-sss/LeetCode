@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/stacy-sss/LeetCode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/stacy-sss/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/stacy-sss/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/stacy-sss/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/stacy-sss/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/stacy-sss/LeetCode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/stacy-sss/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/stacy-sss/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/stacy-sss/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/stacy-sss/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/stacy-sss/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/stacy-sss/LeetCode/tree/master/0217-contains-duplicate) |
 | [1383-maximum-performance-of-a-team](https://github.com/stacy-sss/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stacy-sss/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/stacy-sss/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/stacy-sss/LeetCode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/stacy-sss/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/stacy-sss/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/stacy-sss/LeetCode/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/stacy-sss/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/stacy-sss/LeetCode/tree/master/0567-permutation-in-string) |
@@ -168,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/stacy-sss/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/stacy-sss/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/stacy-sss/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/stacy-sss/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/stacy-sss/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
