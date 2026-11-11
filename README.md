@@ -206,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stacy-sss/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/stacy-sss/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
