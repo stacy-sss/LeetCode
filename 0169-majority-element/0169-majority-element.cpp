@@ -1,18 +1,17 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        std::unordered_map<int, int> m;
-        for(const auto& n : nums){
-            m[n]++;
+        int n = nums.size();
+        std::unordered_map<int,int> m;
+        for(const auto& c : nums){
+            m[c]++;
         }
-        int max = nums.size() / 2;
-        int res = 0;
-        for(auto [n, c] : m){
-            if(c >= max){
-                max = c;
-                res = n;
+        int h = n /2;
+        for(auto [k,v] : m){
+            if(v > h){
+                return k;
             }
         }
-        return res;
+    return 0;
     }
 };
