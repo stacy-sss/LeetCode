@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/stacy-sss/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/stacy-sss/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1004-max-consecutive-ones-iii](https://github.com/stacy-sss/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/stacy-sss/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1383-maximum-performance-of-a-team](https://github.com/stacy-sss/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stacy-sss/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/stacy-sss/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/stacy-sss/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/stacy-sss/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1207-unique-number-of-occurrences](https://github.com/stacy-sss/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Stack
 |  |
 | ------- |
