@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/stacy-sss/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1383-maximum-performance-of-a-team](https://github.com/stacy-sss/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/stacy-sss/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/stacy-sss/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/stacy-sss/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/stacy-sss/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1207-unique-number-of-occurrences](https://github.com/stacy-sss/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/stacy-sss/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Stack
 |  |
 | ------- |
